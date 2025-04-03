@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "python-orangedata"
-version = "0.0.2"
+version = "0.0.3"
 description = "Fork python-orangedata for poetry"
 authors = ["Alexey Egorenko <egorenkoav@gmail.com>"]
 
